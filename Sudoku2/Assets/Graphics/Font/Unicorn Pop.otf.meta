@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9c8556fa6769dfb42b4a586466e78949
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Unicorn Pop
+  fontNames:
+  - Unicorn Pop
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 51885728b35f2914786cb6bbc48ad2c5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0ec73348d94e86a409a5a940573fd6d0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Smoothy
+  fontNames:
+  - Smoothy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a149fdf906c264c479eda8d7a68f85ac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
